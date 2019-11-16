@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
       year:"2008",
       subscribers:10000000,
       barColor:charts.ColorUtil.fromDartColor
-        (Colors.blue),
+        (Colors.green),
 
     ),
     SubscriberSeries(
@@ -25,21 +25,21 @@ class HomePage extends StatelessWidget {
       year:"2010",
       subscribers:50000000,
       barColor:charts.ColorUtil.fromDartColor
-        (Colors.blue),
+        (Colors.yellow),
 
     ),
     SubscriberSeries(
       year:"2011",
       subscribers:55000000,
       barColor:charts.ColorUtil.fromDartColor
-        (Colors.blue),
+        (Colors.red),
 
     ),
     SubscriberSeries(
       year:"2012",
       subscribers:70000000,
       barColor:charts.ColorUtil.fromDartColor
-        (Colors.blue),
+        (Colors.orange),
 
     ),
 
